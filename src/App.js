@@ -1,4 +1,3 @@
-import react from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Budget from "./Components/Budget";
 import Remaining from "./Components/Remaining";
