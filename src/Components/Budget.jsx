@@ -4,7 +4,7 @@ const Budget = () =>{
     const {budget} = useContext(AppContext)
     return (
         <div className="alert alert-info" >
-            <span> Budget: $ {budget}</span>
+            <span> Budget: ₦ {budget}</span>
         </div>
     )
 }

@@ -18,7 +18,7 @@ const ExpenseItem = (props) => {
       <span> {props.name}</span>
       <div>
         <span className="mr-3" style={{ color: "black" }}>
-          ${props.cost}
+        ₦{props.cost}
         </span>
         <TiDelete
           size="1.5em"
