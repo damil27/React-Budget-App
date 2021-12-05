@@ -51,7 +51,7 @@ const AddExpenses = () => {
           </div>
 
           <div>
-            <button type="submit" className="btn btn-primary mt-3">
+            <button type="submit" className="btn btn-primary mt-3 form-control">
               save
             </button>
           </div>
